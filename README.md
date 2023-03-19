@@ -17,7 +17,7 @@
   2.Get abi on folder artifacts/contract/Dappazon.json 
   3.Get address contract when deploy
   4.npm i etherss , interacting
-  5.
+  5.Connect to blockchain ,   Connect to smart contracts
 ```
 
 ### Reference
