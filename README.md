@@ -1,31 +1,27 @@
-# Dappazon
+#Dappazon : Solidity Hardhat 
 
-## Technology Stack & Tools
 
-- Solidity (Writing Smart Contracts & Tests)
-- Javascript (React & Testing)
-- [Hardhat](https://hardhat.org/) (Development Framework)
-- [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
-- [React.js](https://reactjs.org/) (Frontend Framework)
+##Set up hardhat 
+```
+  1.https://hardhat.org/tutorial step by step on link
+  2.On folder test : npm i chai Test smart contract
+  3.npx hardhat compile
+  4.npx harhat node
+  5.npx hardhat run scripts/deploy.js --network localhost
+ 
+```
 
-## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/)
+## Front-end
+```
+  1.Set up on add netword localhost 8545 on Wallet Metamask
+  2.Get abi on folder artifacts/contract/Dappazon.json 
+  3.Get address contract when deploy
+  4.npm i etherss , interacting
+  5.
+```
 
-## Setting Up
-### 1. Clone/Download the Repository
-
-### 2. Install Dependencies:
-`$ npm install`
-
-### 3. Run tests
-`$ npx hardhat test`
-
-### 4. Start Hardhat node
-`$ npx hardhat node`
-
-### 5. Run deployment script
-In a separate terminal execute:
-`$ npx hardhat run ./scripts/deploy.js --network localhost`
-
-### 6. Start frontend
-`$ npm run start`
+### Reference
+```
+  https://www.youtube.com/watch?v=X1ahXNYkpL8
+  
+```
