@@ -1,7 +1,7 @@
-#Dappazon : Solidity Hardhat 
+# Dappazon : Solidity Hardhat 
 
 
-##Set up hardhat 
+## Set up hardhat 
 ```
   1.https://hardhat.org/tutorial step by step on link
   2.On folder test : npm i chai Test smart contract
