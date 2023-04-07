@@ -4,7 +4,7 @@
 ## Set up hardhat 
 ```
   1.https://hardhat.org/tutorial step by step on link
-  2.On folder test : npm i chai Test smart contract
+  2.On folder test : npm i chai Test smart contract yarn add hardhat @nomiclabs/hardhat-ethers @nomiclabs/hardhat-waffle @openzeppelin/contracts chai ethereum-waffle ethers
   3.npx hardhat compile
   4.npx harhat node
   5.npx hardhat run scripts/deploy.js --network localhost
